@@ -1,8 +1,4 @@
-//ciel(s/a) = i
-
-// s/a = floor(i)
-
-// s = floor(i*a)
+//ciel(s/a) == i
 
 #include <iostream>
 #include <cmath>
