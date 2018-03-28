@@ -16,7 +16,6 @@ while True:
 		#handle case with no doubles
 		if (j == 0):
 			answer = word
-		#inputWords.append(word)
 		doubleVowelCount = 0
 		for k in range(0,len(word)-1):
 			#print(k+1)
